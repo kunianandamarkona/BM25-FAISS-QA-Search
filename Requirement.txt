@@ -1,0 +1,5 @@
+faiss-cpu==1.8.0.post1
+pandas==2.2.2
+elasticsearch==8.15.1
+sentence-transformers==3.0.1
+numpy==1.26.4
